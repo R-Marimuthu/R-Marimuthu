@@ -1,165 +1,129 @@
-# 👋 Hi, I'm Marimuthu R
 
-### 💻 Full Stack Software Developer | CSE Graduate
+<div align="center">
 
-I'm a Computer Science Engineering graduate passionate about building **responsive web applications and practical software solutions**.
+# Hi there, I'm Marimuthu R 👋
 
-I have hands-on experience with **React.js, JavaScript, Python, MySQL, REST APIs, JSON, Git, and GitHub**, with a strong interest in developing user-friendly and efficient applications.
+### Aspiring Software Developer | CSE
+
+Building practical projects • Learning new technologies • Growing as a developer
+
+[![GitHub](https://img.shields.io/badge/GitHub-R--Marimuthu-181717?style=for-the-badge&logo=github)](https://github.com/R-Marimuthu)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.E. Computer Science and Engineering graduate
+I'm a Computer Science and Engineering graduate interested in software
+development, web development, and building practical applications.
 
-💻 Interested in **Full Stack Development, Software Development & Web Development**
-
-⚛️ Building responsive interfaces using **React.js, JavaScript, HTML & CSS**
-
-🐍 Developing applications and automation solutions using **Python**
-
-🗄️ Working with **MySQL & SQL** for application data
-
-🔗 Integrating applications using **REST APIs & JSON**
-
-🧩 Passionate about **problem solving, debugging and continuous learning**
+- 💻 Interested in software engineering and full-stack development
+- 🌐 Building responsive websites and interactive web applications
+- 🐍 Exploring Python development and problem-solving
+- 🗄️ Working with databases and application data
+- 🚀 Learning continuously through hands-on projects
+- 🤝 Open to opportunities suitable for entry-level software developers
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### 🗄️ Database & API
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+### Database and Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Website
+### 🛍️ E-Commerce Website
+A responsive e-commerce website focused on product discovery and shopping
+interactions.
 
-A responsive e-commerce web application designed to provide a smooth product discovery and shopping experience.
+**Technologies:** React.js, JavaScript, HTML, CSS
 
-**Features:**
+[View Repository](https://github.com/R-Marimuthu/e-commerce-website)
 
-* Product catalog
-* Product filtering
-* Shopping cart functionality
-* Responsive user interface
+### 📊 Intern Dashboard
+An intern dashboard project focused on presenting internship-related
+information and dashboard features.
 
-**Tech Stack:** React.js • JavaScript • HTML • CSS
+**Technologies:** HTML and other project-specific technologies
 
----
+[View Repository](https://github.com/R-Marimuthu/intern-dashboard)
 
 ### 🍽️ Restaurant Website
+A responsive restaurant website designed to present restaurant information
+and menu content through a user-friendly interface.
 
-A responsive restaurant website focused on clear menu presentation and a user-friendly reservation-style layout.
+**Technologies:** HTML, CSS, JavaScript
 
-**Features:**
+[Find My Restaurant Project](https://github.com/R-Marimuthu?tab=repositories)
 
-* Menu presentation
-* Reservation-style layout
-* Responsive design
-* Easy navigation
+### 🌐 Personal Portfolio Website
+A personal website to showcase projects, technical skills, and professional
+information.
 
-**Tech Stack:** HTML • CSS • JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
----
+[Find My Portfolio Project](https://github.com/R-Marimuthu?tab=repositories)
 
-### 🌐 Student Portfolio
+### 🤖 AI-Based Fraudulent Social Media Profile Detection
+An academic project exploring the detection of potentially fraudulent
+social media profiles across platforms.
 
-A personal portfolio website created to showcase projects, technical skills, and professional information.
+**Technologies:** Python, Flask, MySQL, HTML, CSS, JavaScript
 
-**Features:**
-
-* Project showcase
-* Technical skills
-* Resume information
-* Responsive design
-
-**Tech Stack:** HTML • CSS • JavaScript
+[Explore My Repositories](https://github.com/R-Marimuthu?tab=repositories)
 
 ---
 
-## 💼 Internship Experience
+## 📈 GitHub Overview
 
-### Full Stack Web Development Intern
+<div align="center">
 
-**Marchello Tech** | Jun 2024 – Jul 2024
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-Marimuthu&show_icons=true&theme=github_dark&hide_border=true)
 
-* Developed full-stack web application features using HTML, CSS, JavaScript, React.js, Python and MySQL.
-* Built responsive interfaces for desktop and mobile layouts.
-* Integrated frontend components with REST APIs and MySQL-backed data flows.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Marimuthu&layout=compact&theme=github_dark&hide_border=true)
 
-### Python Development Intern
-
-**InternPe** | Sep 2024 – Oct 2024
-
-* Developed Python applications and automation exercises.
-* Worked on Python mini-projects through iterative development.
-* Used Python libraries for data handling and simple automation tasks.
+</div>
 
 ---
 
-## 📜 Certifications
+## 🎯 Current Goals
 
-🏅 **Python for Data Science** — IBM Cognitive Class
-
-🏅 **SEO Certification** — Simplilearn / Skillup
-
-🏅 **Basics of Python** — Infosys Springboard
-
----
-
-## 🎓 Education
-
-**B.E. Computer Science and Engineering**
-
-Sudharsan Engineering College, Anna University
-
-**2021 – 2025 | CGPA: 8.24**
+- Strengthen problem-solving and programming fundamentals
+- Build reliable, responsive web applications
+- Improve software development and database skills
+- Create projects that demonstrate practical technical knowledge
+- Prepare for entry-level software development opportunities
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Connect With Me
 
-![Marimuthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-Marimuthu\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Marimuthu\&layout=compact\&theme=transparent\&hide_border=true)
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [marimuthu67334@gmail.com](mailto:marimuthu67334@gmail.com)
-
-💼 **LinkedIn:** [Marimuthu R](https://linkedin.com/in/marimuthu2610)
-
-🐙 **GitHub:** [R-Marimuthu](https://github.com/R-Marimuthu)
+- **GitHub:** [R-Marimuthu](https://github.com/R-Marimuthu)
+- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- **Portfolio:** [Add your live portfolio URL](https://github.com/R-Marimuthu)
 
 ---
 
-### 🚀 Building. Learning. Improving. One project at a time.
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+### 💡 Learn. Build. Improve. Repeat.
 
+Thanks for visiting my profile! ⭐
+
+</div>
